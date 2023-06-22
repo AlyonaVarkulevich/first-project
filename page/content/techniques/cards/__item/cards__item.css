@@ -1,0 +1,16 @@
+.cards__item { 
+    width: 240px;
+    text-align: center;
+    margin: o;
+    padding: 0;
+    margin-left: 100px;
+    flex-direction: column;
+  }
+  
+  .cards__item:nth-child(1) {
+    margin-left: 0;
+  }
+  
+  .cards__item:nth-child(4) {
+    margin-left: 0;
+  }
