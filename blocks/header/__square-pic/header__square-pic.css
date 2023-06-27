@@ -11,6 +11,3 @@
     z-index: 2;
   }
   
-  .rotation {
-    animation: rotation linear infinite 20s;
-  }
